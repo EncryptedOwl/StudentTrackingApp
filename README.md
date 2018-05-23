@@ -8,9 +8,11 @@ MVC Pattern
 <h3>
 Functions:
 <h3>
--Timer auto-refresh every 5 seconds
--Add user
-
+<ul>
+ 
+<li> -Timer auto-refresh every 5 seconds</li>
+<li> -Add user</li>
+</ul>
 
 <br>
 
